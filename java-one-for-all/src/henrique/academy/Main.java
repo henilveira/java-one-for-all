@@ -1,0 +1,8 @@
+package henrique.academy;
+
+public class Main {
+    public static void main(String[] args) {
+
+        System.out.println("Testando umas paradas"); // Aparecer na tela
+    }
+}
